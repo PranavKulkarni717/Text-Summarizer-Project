@@ -1,6 +1,5 @@
 # End to end Text-Summarizer-Project
  ## Workflows
-
  1.updateconfig.yaml
  2.params.yaml
  3.update entity
